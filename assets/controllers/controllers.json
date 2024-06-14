@@ -1,0 +1,10 @@
+{
+    "controllers": {
+        "@hotwired/stimulus": {
+            "hello": {
+                "enabled": true,
+                "fetch": "lazy"
+            }
+        }
+    }
+}
